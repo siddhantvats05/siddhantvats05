@@ -19,5 +19,7 @@ I also love learning and interacting with new technologies
  <img src="https://camo.githubusercontent.com/ac3bd00455ddbc6bb3cf90414c5eb77b0e60ef0743dc7796e906a0fd04910f77/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637070" alt="Cpp" height="40" style="vertical-align:top; margin:4px">
 <img src="https://camo.githubusercontent.com/4c3a0145eca226c5e2e8fdd1dac3c3c6f4a69cb2444d4f8ae18031716c0b19ef/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d63" alt="C" height="40" style="vertical-align:top; margin:4px">
  <img src="https://camo.githubusercontent.com/5e8b6a8e8f07b3041792f726f0b2efd62a016ec24b743bf1e4a5c6e6423f86e3/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
- <img src="https://camo.githubusercontent.com/15d91b1526dc4bc7312db29b376075f09479855c802b57d730a764847ee497c1/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://camo.githubusercontent.com/15d91b1526dc4bc7312db29b376075f09479855c802b57d730a764847ee497c1/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" alt="Git" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" alt="Python" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://smartcontractprogrammer.com/static/media/solidity-app.0623e708.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
 </p>
