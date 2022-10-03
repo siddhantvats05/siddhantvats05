@@ -27,7 +27,7 @@ I also love learning and interacting with new technologies
 
 
 ### Let's Connect
-<a href="https://www.linkedin.com/in/siddhant-vats/"><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="Java" height="55" style="vertical-align:top; margin:4px"></a>
+<a href="https://www.linkedin.com/in/siddhant-vats/"><img src = "https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png" alt="Java" height="45" style="vertical-align:top; margin:4px"></a>
 
 
 
