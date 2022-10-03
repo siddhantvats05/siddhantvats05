@@ -8,7 +8,7 @@ I am highly enthusiastic about **Blockchain Development, Cloud Computing** and *
 I am working to become more proficient in **Full-stack Development**
 I also love learning and interacting with new technologies
 
-### Languages & Tools I Use:
+## Languages & Tools I Use:
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
@@ -26,7 +26,7 @@ I also love learning and interacting with new technologies
 </p>
 
 
-### Let's Connect
+## Let's Connect
 <a href="https://www.linkedin.com/in/siddhant-vats/"><img src = "https://logos-download.com/wp-content/uploads/2016/03/LinkedIn_Logo_2019.png" alt="Java" height="30" style="vertical-align:top; margin:4px"></a>
 
 
