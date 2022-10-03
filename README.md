@@ -26,7 +26,7 @@ I also love learning and interacting with new technologies
 </p>
 
 
-###Let's Connect
+### Let's Connect
 <a href="https://www.linkedin.com/in/siddhant-vats/"><img src = "https://brand.linkedin.com/apps/settings/wcm/designs/linkedin/katy/global/clientlibs/resources/img/default-share.png" alt="Java" height="40" style="vertical-align:top; margin:4px"></a>
 
 
