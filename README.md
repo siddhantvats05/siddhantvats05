@@ -5,7 +5,7 @@ I am **Siddhant Vats,** currently residing in **Noida, India**
 I am a 3rd year Computer Science Engineering student in Amity University
 who is highly enthusiastic about **Blockchain Development, Cloud Computing** and **Cyber Security.**
 
-I am working to become more proficient in **Full-stack Development** and love to interact with new technologies.
+I am also working to become more proficient in **Full-stack Development** and love to interact with new technologies.
 
 ## Languages & Tools I Use:
 <p>
